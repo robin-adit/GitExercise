@@ -1,0 +1,2 @@
+Hi ... This is a new file for the new branch.
+It will be inserted into the main branch after testing and approval.
